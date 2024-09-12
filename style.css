@@ -69,4 +69,16 @@ p{
     width: 300px;
     text-align: center;
 }
+/* Задача 35 */
 
+.table_35{
+    width: 500px;
+    height: 300px;
+}
+.th_35{
+    font-weight: normal;
+}
+.td_35{
+    font-weight: bold;
+    align-items: center;
+}
