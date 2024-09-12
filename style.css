@@ -1,3 +1,16 @@
-p{
+/* Задача 25 */
+p{ 
     color: red;
+}
+h1{
+    color: green;
+}
+h2{
+    color: aqua;
+}
+h3{
+    color: red;
+}
+p{
+    color: orange;
 }
