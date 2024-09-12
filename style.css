@@ -48,3 +48,25 @@ table {
     text-align: justify;
 	width: 300px;
 }
+/* Задача 34 */
+.h1_34{
+    text-align: right;
+}
+.h2_34{
+    text-align: center;
+    width: 300px;
+}
+table {
+    width: 500px;
+}
+th {
+    text-align: left;
+}
+td {
+    text-align: center;
+}
+p{
+    width: 300px;
+    text-align: center;
+}
+
