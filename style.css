@@ -18,3 +18,12 @@ p{
 li{
     color: #b617b6;
 }
+/* Задача 28_1 */
+td {
+    width: 300px;
+}
+/* Задача 28_2 */
+.table_2{
+    width: 400px;
+    height: 300px;
+}
