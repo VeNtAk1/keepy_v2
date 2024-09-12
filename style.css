@@ -35,3 +35,10 @@ td {
 .p_31{
     text-align: center;
 }
+th {
+    text-align: left;
+}
+
+table {
+    width: 400px;
+}
