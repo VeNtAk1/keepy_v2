@@ -29,5 +29,9 @@ td {
 }
 /* Задача 30 */
 .p_30{
-        text-align: right;
+    text-align: right;
+}
+/* Задача 31 */
+.p_31{
+    text-align: center;
 }
