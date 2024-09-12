@@ -107,3 +107,8 @@ p{
 .p_38_2{
 	font-family: "Comic Sans MS";
 }
+/* Задача 39 */
+.p_39{
+    font-size: 30px;
+    line-height: 45px;
+}
