@@ -35,10 +35,16 @@ td {
 .p_31{
     text-align: center;
 }
+/* Задача 32 */
 th {
     text-align: left;
 }
 
 table {
     width: 400px;
+}
+/* Задача 33 */
+.p_33{
+    text-align: justify;
+	width: 300px;
 }
