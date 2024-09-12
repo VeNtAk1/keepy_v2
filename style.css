@@ -4,7 +4,7 @@ p{
 }
 /* Задача 26 */
 h1{
-    color: green;
+    color: rgb(26, 228, 60);
 }
 h2{
     color: aqua;
@@ -14,4 +14,7 @@ h3{
 }
 p{
     color: orange;
+}
+li{
+    color: #b617b6;
 }
