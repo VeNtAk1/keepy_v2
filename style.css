@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(228, 228, 228);
+    background-color: rgb(207, 206, 206);
 }
 /* Задача 25 */
 /* p{ 
@@ -193,4 +193,8 @@ td {
 }
 .v3{
     text-indent: 0;
+}
+/* Задача 51 */
+h1, h2, h3 {
+    text-align: center;
 }
