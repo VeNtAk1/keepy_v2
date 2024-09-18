@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(207, 206, 206);
+    background-color: rgb(226, 226, 226);
 }
 /* Задача 25 */
 /* p{ 
@@ -210,10 +210,21 @@ h3{
     color: red;
 } */
  /* Задача 52_2 */
-h1, h2, h3{
+/* h1, h2, h3{
     text-align: center;
     color: red;
 }
 h3{
     font-size: 16px;
+} */
+/* Задача 53_1 */
+/* ul li i{
+    color: red;
 }
+p i {
+    color: green;
+} */ /* Задача 53_2 */
+p b i{
+    color: red;
+}
+/* Задача 54 */
