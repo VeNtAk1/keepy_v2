@@ -117,3 +117,17 @@ p{
     font-size: 30px;
     line-height: 1.5;
 }
+/* Задача 41_1 */
+.p_41_1{
+    font: italic bold 13px/20px "Times New Roman";
+}
+/* Задача 41_2 */
+.p_41_2{
+    width: 300px;
+    color: red;
+    font: bold 40px Arial;    
+}
+.p_41_3{
+    text-indent: 50px;
+    font: italic bold 40px/60px Arial;
+}
