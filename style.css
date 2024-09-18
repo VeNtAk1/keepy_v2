@@ -132,3 +132,13 @@ p{
     text-indent: 100px;
     font: italic bold 40px/60px Arial;
 }
+/* Задача 42 */
+.p_42{
+    text-indent: 50px;
+	text-align: justify;
+	width: 400px;
+}
+/* Задача 44 */
+.p_44{
+    text-decoration: underline;
+}
