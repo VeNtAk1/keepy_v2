@@ -224,7 +224,10 @@ h3{
 p i {
     color: green;
 } */ /* Задача 53_2 */
-p b i{
+/* p b i{
     color: red;
-}
+} */
 /* Задача 54 */
+li b {
+ color: red;
+}
