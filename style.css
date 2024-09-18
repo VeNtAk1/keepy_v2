@@ -228,6 +228,23 @@ p i {
     color: red;
 } */
 /* Задача 54 */
-li b {
+/* li b {
  color: red;
+} */
+ /* Задача 55_1 */
+.odd{
+    color: red;
+}
+.eve{
+    color: green;
+}
+/* Задача 55_2 */
+.eee{
+    color: red;
+}
+.p_55{
+    font-size: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 700px;
+    margin-left: 20px;
 }
