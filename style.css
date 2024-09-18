@@ -1,3 +1,6 @@
+body{
+    background-color: rgb(228, 228, 228);
+}
 /* Задача 25 */
 /* p{ 
     color: red;
@@ -175,6 +178,9 @@ td {
     line-height: 25px;
     font-family: Arial;
     text-indent: 40px;
+}
+.v2{
+    width: 450px;
 }
 .ul_48 {
     width: 400px;
