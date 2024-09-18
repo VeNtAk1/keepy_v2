@@ -146,6 +146,11 @@ p{
 .p_45{
     text-decoration: overline;
 }
+/* Задача 46 */
 .p_46{
     text-decoration: line-through;
+}
+/* Задача 47 */
+.a_47{
+    text-decoration: none;
 }
