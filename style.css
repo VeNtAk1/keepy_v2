@@ -127,7 +127,8 @@ p{
     color: red;
     font: bold 40px Arial;    
 }
+/* Задача 41_3 */
 .p_41_3{
-    text-indent: 50px;
+    text-indent: 100px;
     font: italic bold 40px/60px Arial;
 }
