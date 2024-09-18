@@ -1,28 +1,28 @@
 /* Задача 25 */
-p{ 
+/* p{ 
     color: red;
 }
 /* Задача 26 */
-h1{
+/* h1{
     color: rgb(26, 228, 60);
-}
-h2{
+} */
+/* h2{
     color: aqua;
     font-style: italic;
-}
-h3{
+} */
+/* h3{
     color: red;
-}
-p{
+} */
+/* p{
     color: orange;
-}
-li{
+} */
+/* li{
     color: #b617b6;
-}
+} */
 /* Задача 28_1 */
-td {
+/* td {
     width: 300px;
-}
+} */
 /* Задача 28_2 */
 .table_2{
     width: 400px;
@@ -37,13 +37,13 @@ td {
     text-align: center;
 }
 /* Задача 32 */
-th {
+/* th {
     text-align: left;
-}
+} */
 
-table {
+/* table {
     width: 400px;
-}
+} */
 /* Задача 33 */
 .p_33{
     text-align: justify;
@@ -66,10 +66,10 @@ th {
 td {
     text-align: center;
 }
-p{
+/* p{
     width: 300px;
     text-align: center;
-}
+} */
 /* Задача 35 */
 
 .table_35{
@@ -154,3 +154,35 @@ p{
 .a_47{
     text-decoration: none;
 }
+/* Задача 48 */
+.h1_48 {
+    width: 500px;
+    text-align: center;
+    color: blue;
+    font-size: 40px;
+}
+.h2_48 {
+    width: 500px;
+    text-align: center;
+    color: green;
+    font-weight: normal;
+    font-size: 30px;
+}
+.p_48 {
+    width: 500px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 25px;
+    font-family: Arial;
+    text-indent: 40px;
+}
+.ul_48 {
+    width: 400px;
+    text-align: justify;
+    font-size: 16px;
+    line-height: 20px;
+}
+.i_48 {
+    color: green;
+}
+
