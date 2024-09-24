@@ -28,3 +28,19 @@ h1{
 .eee .bbb .kkk {
 	color: red;
 }
+/* Задача 62_1 */
+p.bbb {
+	color: red;
+}
+/* Задача 62_2 */
+p .bbb {
+	color: red;
+}
+/* Задача 62_3 */
+.eee p.bbb {
+	color: red;
+}
+/* Задача 62_4 */
+.eee p .bbb {
+	color: red;
+}
