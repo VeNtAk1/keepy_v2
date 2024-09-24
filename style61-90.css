@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(226, 226, 226);
+}
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+/* Задача 61 */
+.eee .bbb {
+	color: red;
+}
+/* Задача 61_2 */
+.eee h2 {
+	color: red;
+}
+/* Задача 61_3*/
+.eee h2.bbb {
+	color: red;
+}
+/* Задача 61_4 */
+.eee h3.bbb {
+	color: red;
+}
+/* Задача 61_5 */
+.eee p.bbb {
+	color: red;
+}
+/* Задача 61_6 */
+.eee .bbb .kkk {
+	color: red;
+}
