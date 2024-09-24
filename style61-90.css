@@ -44,3 +44,30 @@ p .bbb {
 .eee p .bbb {
 	color: red;
 }
+/* Задача 63_1 */
+.success {
+	color: green;
+    font-size: larger;
+}
+.error {
+	color: red;
+    font-size: small;
+}
+.large {
+	font-size: large;
+    color: red;
+}
+.small {
+	font-size: small;
+    color: green;
+}
+/* Задача 63_2 */
+.poco{
+    color: green;
+}
+.galaxy{
+    font-size: 19px;
+}
+.apple{
+    font-style: oblique;
+}
