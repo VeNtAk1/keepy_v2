@@ -281,3 +281,12 @@ p i {
     text-align: center;
 	font-family: Arial;
 }
+/* Задача 59 */
+.header_h2 {
+	color: red;
+    font-size: 40px;
+}
+.header_h3{
+    color: red;
+    font-size: 30px;
+}
