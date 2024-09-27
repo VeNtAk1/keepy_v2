@@ -102,3 +102,17 @@ color: red;
 .eee.zzz.ccc{
 	color: red;
 }
+/* Задача 70_1 */
+#block h1, #block h2{
+	text-align: center;
+}
+/* Задача 70_2 */
+#block h1, #block h2{
+	text-align: center;
+}
+#block h1 {
+	font-size: 30px;
+}
+#block h2 {
+	font-size: 20px;
+}
