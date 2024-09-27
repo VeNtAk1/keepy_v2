@@ -86,3 +86,15 @@ p .bbb {
 .text{
 	color: green;
 }
+/* Задача 66_1 */
+/* #elem h2{
+	color: red;
+} */
+/* Задача 66_2 */
+/* #elem .text{
+color: red;
+} */
+/* Задача 66_3 */
+#elem .text{
+	color: red;
+}
