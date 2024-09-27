@@ -103,45 +103,61 @@ color: red;
 	color: red;
 }
 /* Задача 70_1 */
-#block h1, #block h2{
+/* #block h1, #block h2{
 	text-align: center;
-}
+} */
 /* Задача 70_2 */
-#block h1, #block h2{
+/* #block h1, #block h2{
 	text-align: center;
-}
+} */
 #block h1 {
 	font-size: 30px;
 }
-#block h2 {
+/* #block h2 {
 	font-size: 20px;
-}
+} */
 /* Задача 71_1 */
-#block h1, #block h2, #block h3{
+/* #block h1, #block h2, #block h3{
 	text-align: center;
-}
-#block h2{
+} */
+/* #block h2{
 	color: blue;
-}
+} */
 #block h3{
 	color: red;
 	font-size: 16px;
 }
 /* Задача 71_2*/
-#block h1.eee {
+/* #block h1.eee {
 	font-size: 30px;
-}
-#block h2.zzz {
+} */
+/* #block h2.zzz {
 	font-size: 20px;
-}
-#block h1.eeeб, #block h2.zzz{
+} */
+/* #block h1.eeeб, #block h2.zzz{
 	text-align: center;
-}
+} */
 /* Задача 71_3 */
-.xxx .kkk, .eee h2.zzz, #eee h2 {
+/* .xxx .kkk, .eee h2.zzz, #eee h2 {
 	text-align: center;
-}
+} */
 /* Задача 71_4 */
-.eee h2.zzzб .xxx {
+/* .eee h2.zzzб .xxx {
 	text-align: center;
+} */
+/* Задача 72_1 */
+/* .div_72_1 p{
+	color: red;
+} */
+/* Задача 72_2 */
+/* .div_72_2 h2{
+	color: red;
+} */
+/* Задача 72_3 */
+/* #block h2{
+	font-size: 50px;
+} */
+/* Задача 72_4 */
+#block h2{
+	color: red;
 }
