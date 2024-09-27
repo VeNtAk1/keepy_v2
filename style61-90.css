@@ -17,33 +17,33 @@ h1{
 	color: red;
 }
 /* Задача 61_4 */
-.eee h3.bbb {
+/* .eee h3.bbb {
 	color: red;
-}
+} */
 /* Задача 61_5 */
-.eee p.bbb {
+/* .eee p.bbb {
 	color: red;
-}
+} */
 /* Задача 61_6 */
 .eee .bbb .kkk {
 	color: red;
 }
 /* Задача 62_1 */
-p.bbb {
+/* p.bbb {
 	color: red;
-}
+} */
 /* Задача 62_2 */
-p .bbb {
+/* p .bbb {
 	color: red;
-}
+} */
 /* Задача 62_3 */
-.eee p.bbb {
+/* .eee p.bbb {
 	color: red;
-}
+} */
 /* Задача 62_4 */
-.eee p .bbb {
+/* .eee p .bbb {
 	color: red;
-}
+} */
 /* Задача 63_1 */
 .success {
 	color: green;
