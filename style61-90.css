@@ -116,3 +116,32 @@ color: red;
 #block h2 {
 	font-size: 20px;
 }
+/* Задача 71_1 */
+#block h1, #block h2, #block h3{
+	text-align: center;
+}
+#block h2{
+	color: blue;
+}
+#block h3{
+	color: red;
+	font-size: 16px;
+}
+/* Задача 71_2*/
+#block h1.eee {
+	font-size: 30px;
+}
+#block h2.zzz {
+	font-size: 20px;
+}
+#block h1.eeeб, #block h2.zzz{
+	text-align: center;
+}
+/* Задача 71_3 */
+.xxx .kkk, .eee h2.zzz, #eee h2 {
+	text-align: center;
+}
+/* Задача 71_4 */
+.eee h2.zzzб .xxx {
+	text-align: center;
+}
