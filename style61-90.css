@@ -221,3 +221,7 @@ color: red;
 /* .elem + li{
 	color: red;
 } */
+/* Задача 76 */
+#elem ~ li{
+	color: red;
+}
