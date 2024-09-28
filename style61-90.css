@@ -339,3 +339,32 @@ li:empty {
 	color: blue;
 	width: 100px;
 } */
+/* Задача 88_1 */
+/* p:first-of-type {
+	color: red;
+}
+h2:last-of-type {
+	color: red;
+} */
+/* Задача 88_2 */
+/* h2:nth-of-type(2) {
+	color: red;
+}
+p:nth-last-of-type(2) {
+	color: green;
+} */
+/* Задача 88_3 */
+/* h2:only-of-type {
+	color: red;
+} */
+/* Задача 89_1 */
+/* li:not(.elem){
+	color: red;
+} */
+/* Задача 89_2 */
+li + li{
+	color: red;
+}
+li + li:not(:last-child){
+	color: red;
+}
