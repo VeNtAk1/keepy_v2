@@ -213,15 +213,19 @@ color: red;
 /* .fff h2.bbb{
 	color: red;
 } */
-/* Задача 75_1 */
+/* Задача 77_1 */
 /* #elem + li{
 	color: red;
 } */
-/* Задача 75_2 */
+/* Задача 77_2 */
 /* .elem + li{
 	color: red;
 } */
-/* Задача 76 */
-#elem ~ li{
+/* Задача 78 */
+/* #elem ~ li{
+	color: red;
+} */
+/* Задача 79 */
+main * p{
 	color: red;
 }
