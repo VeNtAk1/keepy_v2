@@ -229,3 +229,33 @@ color: red;
 /* main * p{
 	color: red;	
 } */
+/* Задача 82 */
+.a_82:link{
+	color: aqua;
+}
+.a_82:hover{
+	color: red;
+	text-decoration: none;
+}
+.a_82:visited{
+	color: green;
+}
+.a_82:active{
+	color: black;
+}
+/* Задача 84 */
+.a_84{
+	color: aqua;
+	text-decoration: none;
+}
+.a_84:hover{
+	color: red;
+	text-decoration: underline;
+}
+/* Задача 85 */
+#test .a_85 {
+	color: red;
+}
+#test .a_85:hover {
+	text-decoration: none;
+}
