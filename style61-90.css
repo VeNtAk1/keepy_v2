@@ -362,11 +362,16 @@ p:nth-last-of-type(2) {
 	color: red;
 } */
 /* Задача 89_2 */
-li + li{
+/* li + li{
 	color: red;
-}
+} */
 /* Задача 89_3 */
-li + li:not(:last-child){
+/* li + li:not(:last-child){
 	color: red;
-}
+} */
 /* Задача 90 */
+#elem{
+	background-color: blue;
+	width: 300px;
+	height: 400px;
+}
