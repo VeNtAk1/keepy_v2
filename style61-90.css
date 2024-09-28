@@ -259,3 +259,24 @@ color: red;
 #test .a_85:hover {
 	text-decoration: none;
 }
+/* Задача 86_1 */
+.a_86_1_zzz {
+	color: red;
+}
+.a_86_1_zzz:hover {
+	text-decoration: none;
+}
+/* Задача 86_2 */
+#block .a_86_2_zzz {
+	color: red;
+}
+#block .a_86_2_zzz:hover {
+	text-decoration: none;
+}
+/* Задача 86_3 */
+.block .a_86_3_zzz {
+	color: red;
+}
+.block .a_86_3_zzz:hover {
+	text-decoration: none;
+}
