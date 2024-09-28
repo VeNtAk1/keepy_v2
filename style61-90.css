@@ -280,3 +280,62 @@ color: red;
 .block .a_86_3_zzz:hover {
 	text-decoration: none;
 }
+/* Задача 87_1*/
+/* li:first-child{
+	color: red;
+} */
+/* Задача 87_2*/
+/* li:last-child{
+	color: green;
+} */
+/* Задача 87_3*/
+/* li:first-child{
+	color: red;
+}
+li:last-child{
+	color: green;
+} */
+/* Задача 87_4 */
+/* li:nth-child(3){
+	color: red;
+} */
+/* Задача 87_5 */
+/* li:nth-child(odd){
+	color: red;
+}
+li:nth-child(even){
+	color: green;
+} */
+/* Задача 87_6 */
+/* li:nth-child(3){
+	color: red;
+}
+li:nth-child(6){
+	color: red;
+}
+li:nth-child(9){
+	color: red;
+} */
+/* Задача 87_7 */
+/* li:nth-last-child(2){
+	color: red;
+} */
+/* Задача 87_8 */
+/* li:only-child{
+	color: red;
+} */
+/* Задача 87_9 */
+/* li{
+	border: 1px solid red;
+	list-style-type: circle;
+	color: red;
+	width: 100px;
+	margin-top: 10px;
+	padding: 3px;
+}
+li:empty {
+	border: 1px solid blue;
+	list-style-type: circle;
+	color: blue;
+	width: 100px;
+} */
