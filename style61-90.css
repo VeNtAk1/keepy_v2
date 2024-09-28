@@ -365,6 +365,8 @@ p:nth-last-of-type(2) {
 li + li{
 	color: red;
 }
+/* Задача 89_3 */
 li + li:not(:last-child){
 	color: red;
 }
+/* Задача 90 */
