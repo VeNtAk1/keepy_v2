@@ -71,4 +71,10 @@
     border-right-style: dotted;
     border-top: 1px solid blue;
 }
-
+/* Задача 99 */
+#elem_99{
+    width: 100px;
+	height: 150px;
+	border: 2px solid green;
+	border-radius: 10px;
+}
