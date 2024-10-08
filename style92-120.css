@@ -78,3 +78,10 @@
 	border: 2px solid green;
 	border-radius: 10px;
 }
+/* Задача 100 */
+#elem_100{
+    border-radius: 20px;
+	width: 300px;
+	height: 100px;
+	background-color: #12d054;
+}
