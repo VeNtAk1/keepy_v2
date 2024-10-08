@@ -27,6 +27,32 @@
     border-width: 5px;
 	border-style: double;
 	border-color: blue  ;
-	width: 2git00px;
+	width: 200px;
 	height: 100px;
 }
+/* Задача 96 */
+#elem_96_1{
+    border: 3px solid red;
+    height: 100px;
+    width: 300px;
+    margin-bottom: 10px;
+}
+#elem_96_2{
+    border: 2px solid blue;
+    border-style: dotted;
+    height: 100px;
+    width: 300px;
+}
+#elem_96_3{
+    border: 3px solid green;
+    border-style: dotted;
+    height: 100px;
+    width: 300px;
+}
+#elem_96_4{
+    border: 5px solid orange;
+    border-style: double;
+    height: 100px;
+    width: 300px;
+}
+
