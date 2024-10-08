@@ -99,3 +99,10 @@
 	border: 1px solid red;
 	border-radius: 10px 20px 30px 50px;
 }
+/* Задача 104 */
+#elem_104{
+    width: 150px;
+	height: 200px;
+	border: 1px solid red;
+	border-radius: 10px 30px 10px 30px;
+}
