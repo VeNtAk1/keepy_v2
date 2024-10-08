@@ -96,13 +96,27 @@
 #elem_103{
     width: 150px;
 	height: 200px;
-	border: 1px solid red;
+	border: 1px solid green;
 	border-radius: 10px 20px 30px 50px;
 }
 /* Задача 104 */
 #elem_104{
     width: 150px;
 	height: 200px;
-	border: 1px solid red;
+	border: 1px solid green;
 	border-radius: 10px 30px 10px 30px;
+}
+/* Задача 105 */
+#elem_105{
+    width: 150px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 30px 20px 30px;
+}
+/* Задача 107 */
+#elem_107{
+    width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 50%;
 }
