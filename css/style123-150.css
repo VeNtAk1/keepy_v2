@@ -1,0 +1,71 @@
+/* Задача 123 */
+.block_123_vnesh{
+    width: 400px;
+    height: 300px;
+    border: 1px solid blue;
+    border-style: dotted;
+}
+.block_123_vnytr{
+    margin-top: 75px;
+    margin-left: 75px;
+    width: 220px;
+    height: 150px;
+    border: 1px solid orange;
+}
+.block_123_1_vnesh{
+    width: 500px;
+    height: 400px;
+    border: 1px solid blue;
+    border-style: dotted;
+}
+.block_123_2_vnytr{
+    margin: 50px;
+    width: 300px;
+    height: 300px;
+    border: 1px solid green;
+    border-style: dotted;
+}
+.block_123_2_2_vnytr{
+    margin: 50px;
+    width: 200px;
+    height: 200px;
+    border: 1px solid red;
+}
+/* Задача 124 */
+.block_124_1_vnesh{
+    border: 1px solid red;
+    width: 200px;
+    height: 250px;
+}
+.block_124_1_vnytr{
+    margin-top: 50px;
+    margin-right: 50px;
+    margin-bottom: 100px;
+    margin-left: 50px;
+    height: 100px;
+    border: 1px solid green;
+}
+.block_124_2_vnesh{
+    width: 200px;
+    border: 1px solid red;
+}
+.block_124_2_vnytr{
+    margin-top: 50px;
+    margin-right: 25px;
+    margin-bottom: 50px;
+    margin-left: 25px;
+    height: 100px;
+    border: 1px solid green;
+}
+.block_124_3_vnesh{
+    width: 200px;
+    border: 1px solid red;
+}
+.block_124_3_vnytr{
+    margin-top: 20px;
+    margin-right: 70px;
+    margin-bottom: 20px;
+    margin-left: 70px;
+    height: 100px;
+    border: 1px solid green;
+}
