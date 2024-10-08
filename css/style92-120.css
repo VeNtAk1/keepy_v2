@@ -177,3 +177,6 @@
 	list-style-type: disc;
 }
 /* Задача 114 */
+.ul_114{
+	list-style-type: none;
+}
