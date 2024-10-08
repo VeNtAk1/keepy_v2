@@ -180,3 +180,7 @@
 .ul_115{
 	list-style-type: none;
 }
+/* Задача 117 */
+.ol_117{
+	list-style-type: lower-roman;
+}
