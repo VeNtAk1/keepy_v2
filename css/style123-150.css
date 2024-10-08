@@ -131,3 +131,13 @@
     border: 1px solid green;
     text-align: justify;
 }
+/* Задача 130 */
+.block_130{
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 100px;
+    padding-left: 30px;
+    width: 200px;
+    border: 1px solid red;
+    text-align: justify;
+}
