@@ -281,33 +281,33 @@ color: red;
 	text-decoration: none;
 }
 /* Задача 87_1*/
-/* li:first-child{
+li:first-child{
 	color: red;
-} */
+}
 /* Задача 87_2*/
-/* li:last-child{
+li:last-child{
 	color: green;
-} */
+}
 /* Задача 87_3*/
-/* li:first-child{
+ li:first-child{
 	color: red;
 }
 li:last-child{
 	color: green;
 } */
 /* Задача 87_4 */
-/* li:nth-child(3){
-	color: red;
-} */
-/* Задача 87_5 */
-/* li:nth-child(odd){
+li:nth-child(3){
 	color: red;
 }
+/* Задача 87_5 */
+li:nth-child(odd){
+	color: red;
+} 
 li:nth-child(even){
 	color: green;
 } */
 /* Задача 87_6 */
-/* li:nth-child(3){
+li:nth-child(3){
 	color: red;
 }
 li:nth-child(6){
@@ -315,15 +315,15 @@ li:nth-child(6){
 }
 li:nth-child(9){
 	color: red;
-} */
+}
 /* Задача 87_7 */
-/* li:nth-last-child(2){
+li:nth-last-child(2){
 	color: red;
-} */
+}
 /* Задача 87_8 */
-/* li:only-child{
+li:only-child{
 	color: red;
-} */
+}
 /* Задача 87_9 */
 /* li{
 	border: 1px solid red;
@@ -340,38 +340,44 @@ li:empty {
 	width: 100px;
 } */
 /* Задача 88_1 */
-/* p:first-of-type {
+p:first-of-type {
 	color: red;
 }
 h2:last-of-type {
 	color: red;
-} */
+}
 /* Задача 88_2 */
-/* h2:nth-of-type(2) {
+h2:nth-of-type(2) {
 	color: red;
 }
 p:nth-last-of-type(2) {
 	color: green;
-} */
+}
 /* Задача 88_3 */
-/* h2:only-of-type {
+h2:only-of-type {
 	color: red;
-} */
+}
 /* Задача 89_1 */
-/* li:not(.elem){
+li:not(.elem){
 	color: red;
-} */
+}
 /* Задача 89_2 */
-/* li + li{
+li + li{
 	color: red;
-} */
+}
 /* Задача 89_3 */
-/* li + li:not(:last-child){
+li + li:not(:last-child){
 	color: red;
-} */
+}
 /* Задача 90 */
-#elem{
+#elem_90{
 	background-color: blue;
 	width: 300px;
 	height: 400px;
+}
+/* Задача 92 */
+#elem_92{
+	border-style: solid;
+	width: 100px;
+	height: 100px;
 }
