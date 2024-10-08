@@ -14,3 +14,11 @@
 	width: 300px;
 	height: 100px;
 }
+/* Задача 94 */
+#elem_94{
+    border-width: 3px;
+	border-style: dotted;
+	border-color: orange;
+	width: 300px;
+	height: 100px;
+}
