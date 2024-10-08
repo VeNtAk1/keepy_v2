@@ -117,3 +117,17 @@
     height: 50px;
     border: 1px dashed blue;
 }
+/* Задача 129 */
+.block_129{
+    padding: 50px;
+    width: 200px;
+    border: 1px solid red;
+    text-align: justify;
+}
+.block_129_2{
+    width: 500px;
+    padding: 20px;
+    margin-bottom: 30px;
+    border: 1px solid green;
+    text-align: justify;
+}
