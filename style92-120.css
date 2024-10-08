@@ -85,3 +85,17 @@
 	height: 100px;
 	background-color: #12d054;
 }
+/* Задача 101 */
+#elem_101{
+    width: 200px;
+	height: 200px;
+	border-radius: 100px;
+	border: 1px solid green;
+}
+/* Задача 103 */
+#elem_103{
+    width: 150px;
+	height: 200px;
+	border: 1px solid red;
+	border-radius: 10px 20px 30px 50px;
+}
