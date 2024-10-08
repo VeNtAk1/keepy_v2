@@ -164,19 +164,19 @@
 	background-attachment: scroll;
 	background-image: url(/img/bg.png);
 }
-/* Задача 111 */
-.ul_111{
-	list-style-type: square;
-}
 /* Задача 112 */
 .ul_112{
-	list-style-type: circle;
+	list-style-type: square;
 }
 /* Задача 113 */
 .ul_113{
-	list-style-type: disc;
+	list-style-type: circle;
 }
 /* Задача 114 */
 .ul_114{
+	list-style-type: disc;
+}
+/* Задача 115 */
+.ul_115{
 	list-style-type: none;
 }
