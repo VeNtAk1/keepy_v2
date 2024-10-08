@@ -196,3 +196,7 @@
 .ol_120{
 	list-style-type: upper-alpha;
 }
+/* Задача 121 */
+.ol_121{
+	list-style-type: lower-greek;
+}
