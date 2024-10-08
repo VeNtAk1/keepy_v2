@@ -164,3 +164,7 @@
 	background-attachment: scroll;
 	background-image: url(/img/bg.png);
 }
+/* Задача 111 */
+.ul_111{
+	list-style-type: square;
+}
