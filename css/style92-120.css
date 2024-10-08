@@ -200,3 +200,7 @@
 .ol_121{
 	list-style-type: lower-greek;
 }
+/* Задача 122 */
+.ol_122{
+	list-style-type: decimal-leading-zero;
+}
