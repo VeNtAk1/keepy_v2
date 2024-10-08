@@ -98,3 +98,22 @@
     height: 50px;
     border: 1px dashed blue;
 }
+/* Задача 128 */
+.block_128_1_vnesh{
+    width: 200px;
+    border: 1px solid orange;
+}
+.block_128_1_vnytr{
+    margin: 100px 50px 30px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+.block_128_2_vnesh{
+    width: 400px;
+    border: 1px solid orange;
+}
+.block_128_2_vnytr{
+    margin: 30px 100px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
