@@ -79,3 +79,22 @@
     height: 50px;
     border: 1px dashed blue;
 }
+/* Задача 127 */
+.block_127_1_vnesh{
+    width: 200px;
+    border: 1px solid orange;
+}
+.block_127_1_vnytr{
+    margin: 100px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
+.block_127_2_vnesh{
+    width: 200px;
+    border: 1px solid orange;
+}
+.block_127_2_vnytr{
+    margin: 25px 50px;
+    height: 50px;
+    border: 1px dashed blue;
+}
