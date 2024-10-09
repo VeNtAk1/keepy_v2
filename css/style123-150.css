@@ -346,3 +346,17 @@
     height: 60px;
     border: 1px solid green;
 }
+/* Задача 171 */
+.block_171{
+    display: flex;
+    justify-content: space-between;
+    width: 900px;
+    height: 200px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child_171{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
