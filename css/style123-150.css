@@ -212,3 +212,10 @@
     height: auto;
     text-align: center;
 }
+/* Задача 159 */
+.block_159{
+    text-align: right;
+	border: 1px solid red;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
