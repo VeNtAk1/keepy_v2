@@ -52,3 +52,17 @@
     height: 60px;
     border: 1px solid green;
 }
+/* Задача 204 */
+.block_204{
+    display: flex;
+    flex-direction: row-reverse;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child_204{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
