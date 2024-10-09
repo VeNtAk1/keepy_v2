@@ -277,3 +277,15 @@
     height: 60px;
     border: 1px solid green;
 }
+/* Задача 164 */
+.block_164{
+    display: flex;
+    width: 900px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child_164{
+    width: 120px;
+    height: 100px;
+    border: 1px solid green;
+}
