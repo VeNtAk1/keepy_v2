@@ -205,3 +205,10 @@
     border: 1px solid green;
     margin: 10px auto;
 }
+/* Задача 158 */
+.glav_block_158{
+    padding: 10px 0;
+	border: 1px solid red;
+    height: auto;
+    text-align: center;
+}
