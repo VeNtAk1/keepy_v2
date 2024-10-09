@@ -76,3 +76,32 @@
     width: 75px;
     height: 75px;
 }
+/* Задача 185 */
+.block_185_1{
+    background-color: red;
+    margin-left: 75px;
+    z-index: -1;
+}
+.block_185_2{
+    position: relative;
+    left: 45px;
+    bottom: 15px;
+
+    z-index: -2;
+    background-color: blue;
+    margin-left: 75px
+}
+.block_185_3{
+    position: relative;
+    left: 80px;
+    bottom: 30px;
+
+
+    background-color: green;
+    margin-left: 75px;
+    z-index: 0;
+}
+.block_185_1, .block_185_2, .block_185_3{
+    width: 75px;
+    height: 75px;
+}
