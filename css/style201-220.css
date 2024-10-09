@@ -38,3 +38,17 @@
     text-align: center;
     border: 1px solid green;
 }
+/* Задача 203 */
+.block_203{
+    display: flex;
+    flex-direction: row;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child_203{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
