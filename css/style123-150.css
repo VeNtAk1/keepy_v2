@@ -300,3 +300,13 @@
     height: 60px;
     border: 1px solid green;
 }
+/* Задача 166 */
+.block_166{
+    display: inline-flex;
+    border: 1px solid red;
+}
+.child_166{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
