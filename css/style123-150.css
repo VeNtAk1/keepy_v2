@@ -160,3 +160,12 @@
     text-align: justify;
     padding: 10px 20px 40px;
 }
+/* Задача 135 */
+.block_135{
+    width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px;
+	border: 10px solid green; 
+	box-sizing: border-box;
+}
