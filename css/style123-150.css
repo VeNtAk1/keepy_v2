@@ -231,3 +231,36 @@
     display: inline-block;
     margin: 0 5px;
 }
+/* Задача 162 */
+.block_162{
+    padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+.child_162{
+    display: inline-block;
+    padding: 10px;
+	border: 1px solid green;
+}
+/* Задача 16_2 */
+.block_162{
+    padding-right: 10px;
+}
+/* Задача 162_3 */
+.child_162{
+    margin-right: 10px;
+    
+}
+/* Задача 162_4 */
+.block_162_4 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: end;
+}
+.child_162_4 {
+    display: inline-block;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+    text-align: center;
+}
