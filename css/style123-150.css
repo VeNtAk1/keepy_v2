@@ -169,3 +169,10 @@
 	border: 10px solid green; 
 	box-sizing: border-box;
 }
+/* Задача 147 */
+.block_147{
+    display: inline;
+    width: 200px;
+	height: 200px;
+	border: 1px solid green;
+}
