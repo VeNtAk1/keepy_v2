@@ -1,3 +1,4 @@
+/* Задача 182 */
 .block_182{
     position: fixed;
     top: 0;
@@ -16,4 +17,62 @@
     margin: 60px auto;
     padding: 20px;
     border: 1px solid #C4CD14;
+}
+/* Задача 184 */
+.block_184_1{
+    background-color: red;
+    margin-left: 75px;
+    z-index: 2;
+}
+.block_184_2{
+    position: relative;
+    left: 45px;
+    bottom: 15px;
+
+    z-index: 3;
+    background-color: blue;
+    margin-left: 75px
+}
+.block_184_3{
+    position: relative;
+    left: 80px;
+    bottom: 30px;
+
+
+    background-color: green;
+    margin-left: 75px;
+    z-index: 1;
+}
+.block_184_1, .block_184_2, .block_184_3{
+    width: 75px;
+    height: 75px;
+}
+/* Задача 184_2 */
+.block_184_4{
+    background-color: red;
+    margin-left: 75px;
+    z-index: 0;
+}
+.block_184_5{
+    position: relative;
+    left: 45px;
+    bottom: 15px;
+
+    z-index: -1;
+    background-color: blue;
+    margin-left: 75px
+}
+.block_184_6{
+    position: relative;
+    left: 80px;
+    bottom: 30px;
+
+
+    background-color: green;
+    margin-left: 75px;
+    z-index: -2;
+}
+.block_184_4, .block_184_5, .block_184_6{
+    width: 75px;
+    height: 75px;
 }
