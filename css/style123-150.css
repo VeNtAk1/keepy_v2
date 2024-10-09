@@ -264,3 +264,16 @@
 	border: 1px solid green;
     text-align: center;
 }
+/* Задача 163 */
+.block_163_vnesh{
+    display: flex;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.block_163_vnytr{
+    width: 120px;
+    height: 60px;
+    border: 1px solid green;
+}
