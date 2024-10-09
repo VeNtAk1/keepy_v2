@@ -93,4 +93,9 @@
     width: 120px;
     height: 60px;
     border: 1px solid green;
+}   
+/* Задача 207 */
+.block_207{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
 }
