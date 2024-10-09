@@ -1,0 +1,88 @@
+/* Задача 174 */
+.block_174_1{
+    border: 1px solid red;
+    position: absolute;
+    left: 50px;
+}
+.block_174_2{
+    border: 1px solid blue;
+    position: absolute;
+    top: 120px;
+    left: 120px;
+}
+.block_174_3{
+    border: 1px solid green;
+    position: absolute;
+    top: 190px;
+    left: 190px;
+}
+.block_174_1, .block_174_2, .block_174_3{
+    height: 50px;
+    width: 50px;
+}
+/* Задача 174_2 */
+.block_174_4{
+    border: 1px solid red;
+    position: absolute;
+    left: 50px;
+}
+.block_174_5{
+    border: 1px solid blue;
+    position: absolute;
+    left: 120px;
+}
+.block_174_6{
+    border: 1px solid green;
+    position: absolute;
+    left: 190px;
+}
+.block_174_4, .block_174_5, .block_174_6{
+    height: 50px;
+    width: 50px;
+}
+/* Задача 174_3 */
+.block_174_7{
+    border: 1px solid red;
+    position: absolute;
+    top: 450px;
+    left: 110px;
+}
+.block_174_8{
+    border: 1px solid blue;
+    position: absolute;
+    top: 480px;
+    left: 150px;
+}
+.block_174_9{
+    border: 1px solid green;
+    position: absolute;
+    top: 500px;
+    left: 190px;
+}
+.block_174_7, .block_174_8, .block_174_9{
+    height: 50px;
+    width: 50px;
+}
+/* Задача 174_3 */
+.block_174_10{
+    background-color: red;
+    position: absolute;
+    top: 580px;
+    left: 110px;
+}
+.block_174_11{
+    background-color: blue;
+    position: absolute;
+    top: 620px;
+    left: 150px;
+}
+.block_174_12{
+    background-color: green;
+    position: absolute;
+    top: 650px;
+    left: 190px;
+}
+.block_174_10, .block_174_11, .block_174_12{
+    height: 50px;
+    width: 50px;
+}
