@@ -253,3 +253,47 @@
     height: 60px;
     border: 1px solid green;
 }
+/* Задача 213_1*/
+.block_213_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+.child_213_1{
+    width: 120px;
+    border: 1px solid green;
+}
+/* Задача 213_2*/
+.block_213_2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child_213_2{
+    height: 40px;
+    border: 1px solid green;
+}
+/* Задача 213_3*/
+.block_213_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child_213_3{
+    height: 40px;
+    border: 1px solid green;
+}
