@@ -35,3 +35,46 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+/* Задача 232 */
+.block_232_1{
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+.block_232_1 > .child_232_1{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.block_232_1 > .child_232_1_2{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.block_232_1 > .child_232_1_3{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.block_232_1 > .child_232_1_4{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.block_232_1 > .child_232_1_5{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.child_232_1{
+    grid-row: 1 / 2;
+}
+.child_232_1_2{
+    grid-row: 2 / 3;
+}
+.child_232_1_3{
+    grid-row: 1 / 2;
+}
+.child_232_1_4{
+    grid-row: 2 / 4;
+}
+.child_232_1_5{
+    grid-row: 3 / 4;
+}
