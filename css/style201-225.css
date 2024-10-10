@@ -560,3 +560,108 @@
     padding: 10px;
 	border: 1px solid #696989;
 }
+/* Задача 225*/
+.block_225_1{
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_1 > .child_225_1{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+.block_225_2{
+    display: grid;
+    grid-template-columns: repeat(4, 100px);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_2 > .child_225_2{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+.block_225_2_2{
+    display: grid;
+    grid-template-columns: repeat(3, 2fr);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_2_2 > .child_225_2_2{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+
+.block_225_3{
+    display: grid;
+    grid-template-columns: repeat(2, 100px);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_3 > .child_225_3{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+
+.block_225_3_2{
+    display: grid;
+    grid-template-columns: repeat(3, 200px);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_3_2 > .child_225_3{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+
+.block_225_3_3{
+    display: grid;
+    grid-template-columns: repeat(1, 1fr);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_3_3 > .child_225_3{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+
+.block_225_3_4{
+    display: grid;
+    grid-template-columns: repeat(2, 10%);
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_225_3_4 > .child_225_3{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+/* Задача 226 */
+.block_226_1{
+    display: grid;
+    grid-template-columns: 200px auto;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_226_1 > .child_226_1{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+.block_226_2{
+    display: grid;
+    grid-template-columns: 100px 150px auto;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_226_2 > .child_226_2{
+    padding: 10px;
+	border: 1px solid #696989;
+}
