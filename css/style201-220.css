@@ -348,3 +348,60 @@
     width: 100px;
     border: 1px solid green;
 }
+/* Задача 215_1*/
+.block_215_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child_215_1{   
+    height: 40px;
+    width: 100px;
+    border: 1px solid green;
+}
+.elem_215{
+    align-self: flex-end;
+}
+/* Задача 215_2*/
+.block_215_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child_215_2{   
+    width: 100px;
+    border: 1px solid green;
+}
+.elem_215_2{
+    align-self: center;
+}
+/* Задача 215_3*/
+.block_215_3{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    width: 900px;
+    height: 400px;
+    margin: 20px auto;
+    border: 1px solid red;
+}
+
+.child_215_3{   
+    height: 40px;
+    width: 100px;
+    border: 1px solid green;
+}
+.elem_215_3{
+    align-self: center;
+}
