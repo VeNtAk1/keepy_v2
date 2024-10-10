@@ -431,7 +431,8 @@
     grid-template-columns: 50px 50px 50px 50px 50px;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 250px;
+	width: fit-content;
+
 }
 .block_220 > .child_220{
     padding: 10px;
@@ -443,7 +444,8 @@
     grid-template-columns: 200px 200px;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 405px;
+    width: fit-content;
+
 }
 .block_220_2 > .child_220_2{
     padding: 10px;
@@ -455,7 +457,8 @@
     grid-template-columns: 150px 150px;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 305px;
+	width: fit-content;
+
 }
 .block_220_3 > .child_220_3{
     padding: 10px;
@@ -467,7 +470,8 @@
     grid-template-columns: 100px 150px 200px;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 455px;
+	width: fit-content;
+
 }
 .block_220_4 > .child_220_4{
     padding: 10px;
@@ -480,7 +484,8 @@
     grid-template-columns: auto auto;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 455px;
+	width: fit-content;
+
 }
 .block_221_1 > .child_221_1{
     padding: 10px;
@@ -492,7 +497,7 @@
     grid-template-columns: auto auto auto;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 455px;
+	width: fit-content;
 }
 .block_221_2 > .child_221_2{
     padding: 10px;
@@ -504,10 +509,54 @@
     grid-template-columns: 50px 50px 100px;
     border: 2px solid #696989;
 	padding: 10px;
-	width: 200px;
+    width: fit-content;
 }
 .block_221_3 > .child_221_3{
     padding: 10px;
 	border: 1px solid #696989;
-
+}
+.block_222_1{
+    display: grid;
+    grid-template-columns: 100px 100px 150px;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_222_1 > .child_222_1{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+.block_222_2{
+    display: grid;
+    grid-template-columns: 100px 150px 250px;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_222_2 > .child_222_2{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+/* Задача 223 */
+.block_223_1{
+    display: grid;
+    grid-template-columns: 100px 150px 150px;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_223_1 > .child_223_1{
+    padding: 10px;
+	border: 1px solid #696989;
+}
+.block_223_2{
+    display: grid;
+    grid-template-columns: 100px 200px 300px 100px;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: fit-content;
+}
+.block_223_2 > .child_223_2{
+    padding: 10px;
+	border: 1px solid #696989;
 }
