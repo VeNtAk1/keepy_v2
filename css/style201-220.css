@@ -474,3 +474,40 @@
 	border: 1px solid #696989;
 
 }
+/* Задача 221 */
+.block_221_1{
+    display: grid;
+    grid-template-columns: auto auto;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: 455px;
+}
+.block_221_1 > .child_221_1{
+    padding: 10px;
+	border: 1px solid #696989;
+
+}
+.block_221_2{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: 455px;
+}
+.block_221_2 > .child_221_2{
+    padding: 10px;
+	border: 1px solid #696989;
+
+}
+.block_221_3{
+    display: grid;
+    grid-template-columns: 50px 50px 100px;
+    border: 2px solid #696989;
+	padding: 10px;
+	width: 200px;
+}
+.block_221_3 > .child_221_3{
+    padding: 10px;
+	border: 1px solid #696989;
+
+}
