@@ -206,3 +206,20 @@
 .child_235_3{
     grid-column: 3 / 5;
 }
+/* Задача 236 */
+.block_236{
+    display: grid;
+    column-gap: 20px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+.block_236 > div{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.elem_236{
+    margin: 0 20%;
+}
