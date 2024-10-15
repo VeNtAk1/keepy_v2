@@ -334,3 +334,39 @@
 .block_240_3 a.active_240_3, .block_240_3 a:hover{
     background-color: #16785C;
 }
+/* Задача 241 */
+.block_vnesh_241{
+    height: auto;
+    width: 620px;
+    border: 1px solid black;
+}
+.block_241{
+    display: flex;
+    background-color: grey;
+    width: fit-content;
+}
+.block_241 a{
+    padding: 15px 40px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+}
+.block_241 a.active_241, .block_241 a:hover{
+    background-color:rgb(65, 65, 65)
+}
+.h1_block_241{
+    font-size: 32px;
+    text-align: center;
+}
+.text_block_241{
+    padding: 10px;
+    font-weight: normal;
+    font-size: 19px;
+}
+.text_block_241 > a {
+    color: blue;
+    text-decoration: none;
+}
+.text_block_241 > a:hover{
+    color: green;
+}
