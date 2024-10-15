@@ -268,3 +268,69 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+/* Задача 240 */
+.block_240{
+    display: flex;
+}
+.block_240 a{
+    box-sizing: border-box;
+    margin-right: 10px;
+    padding: 10px 25px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #16A177;
+    background-color: #16A177;
+}
+.block_240 > a:hover{
+    color: rgb(128, 255, 241);
+    background-color: rgb(30, 32, 34);
+}
+.block_240 a.active{
+    color: #16A177;
+    background-color: white;
+}
+.block_240_2{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.block_240_2 a{
+    text-decoration-color: initial;
+    color: rgb(255, 255, 255);
+    border-color: rgb(37, 218, 163);
+    background-color: rgb(28, 160, 119);
+    margin-bottom: 10px;
+    padding: 15px 25px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+    border: 1px solid #16A177;
+    background-color: #16A177;
+}
+.block_240_2 a.active_240_2{
+    color: #16A177;
+    background-color: black;
+}
+.block_back_240_2{
+    background-color: black;
+    width: 500px;
+    padding: 15px;
+}
+.block_240_2 a:hover{
+    background-color: black;
+}
+.block_240_3{
+    display: flex;
+    background-color: #16A177;
+    width: fit-content  ;
+}
+.block_240_3 a{
+    padding: 15px 40px;
+    font: 16px Arial;
+    text-decoration: none;
+    color: white;
+}
+.block_240_3 a.active_240_3, .block_240_3 a:hover{
+    background-color: #16785C;
+}
