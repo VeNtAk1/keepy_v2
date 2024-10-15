@@ -255,3 +255,16 @@
     border: 1px solid #696989;
     margin: 10px 10px;
 }
+/* Задача 239 */
+.block_239{
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+.block_239 > div{
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
