@@ -113,3 +113,75 @@
     border: 2px solid #696989;
 
 }
+/* Задача 234 */
+.block_234{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid #696989;
+    padding: 10px;
+    height: 300px;
+    width: 400px;
+}
+.block_234 > div{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.child_234_1{
+    grid-row: 1 / 2;
+    grid-column: 1 / 5;
+}
+.child_234_2{
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+}
+.child_234_3{
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+.child_234_4{
+    grid-row: 2 / 3;
+    grid-column: 3 / 4;
+}
+.child_234_5{
+    grid-row: 2 / 3;
+    grid-column: 4 / 5w;
+}
+
+.block_234_2{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+.block_234_2 > div{
+    border: 1px solid #696989;
+}
+.child_234_1_2{
+    grid-row: 1 / 2;
+    grid-column: 1 / 5;
+}
+.child_234_2_2{
+    grid-row: 2 / 3;
+    grid-column: 1 / 2;
+}
+.child_234_3_2{
+    grid-row: 2 / 3;
+    grid-column: 2 / 3;
+}
+.child_234_4_2{
+    grid-row: 2 / 3;
+    grid-column: 3 / 4;
+}
+.child_234_5_2{
+    grid-row: 2 / 3;
+    grid-column: 4 / 5;
+}
+.child_234_5_2{
+    grid-row: 2 / 3;
+    grid-column: 4 / 5;
+}
+.child_234_6_2{
+    grid-row: 4 / 6;
+    grid-column: 1 / 4;
+}
