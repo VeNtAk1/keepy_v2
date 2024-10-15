@@ -223,3 +223,20 @@
 .elem_236{
     margin: 0 20%;
 }
+/* Задача 237 */
+.block_237{
+    display: grid;
+    column-gap: 20px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+.block_237 > div{
+    padding: 10px;
+    border: 1px solid #696989;
+}
+.elem_237{
+    margin: 0 25%;
+}
