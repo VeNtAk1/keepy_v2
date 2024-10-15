@@ -240,3 +240,18 @@
 .elem_237{
     margin: 0 25%;
 }
+/* Задача 238 */
+.block_238{
+    display: grid;
+    column-gap: 20px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: fit-content;
+}
+.block_238 > div{
+    padding: 10px;
+    border: 1px solid #696989;
+    margin: 10px 10px;
+}
